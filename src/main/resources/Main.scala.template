@@ -1,0 +1,4 @@
+package packageName
+
+@main def run(): Unit =
+  ???
